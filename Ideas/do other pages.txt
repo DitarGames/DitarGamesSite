@@ -1,0 +1,1 @@
+We could do other pages and link to them with the <a> tag.
